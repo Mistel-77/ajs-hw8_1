@@ -1,5 +1,7 @@
 # ajs-hw8_1
 Домашнее задание к лекции «Контейнеры» Set
+[![Build status](https://ci.appveyor.com/api/projects/status/5l2dd0x51xawo4vm/branch/master?svg=true)](https://ci.appveyor.com/project/Mistel-77/ajs-hw8-1/branch/master)
+
 ## `Set`
 
 ### Легенда
